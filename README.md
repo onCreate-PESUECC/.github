@@ -1,2 +1,0 @@
-# .github
-onCreate PESUECC
