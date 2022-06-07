@@ -16,7 +16,5 @@
 
 ### How To Join Us:
 
-- There's just one tiny step: **Join the [Discord Server](https://discord.gg/U47PY77g9q)** and you're a part of the Community ❗
-
-#### Click [Here](https://linktr.ee/oncreate) to navigate between various onCreate() Portals.
+- There's just one tiny step: **Join the Discord Server** and you're a part of the Community ❗
 ---
